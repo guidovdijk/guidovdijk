@@ -66,7 +66,7 @@
     <a href="https://www.linkedin.com/in/guido-van-dijk-ma/">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Guido%20van%20Dijk-blue?style=flat-square&logo=linkedin">
     </a>
-    <a href="https://www.instagram.com/adityavs_/">
+    <a href="https://www.instagram.com/dv_guido/">
         <img alt="Instagram" src="https://img.shields.io/badge/Instagram-dv_guido-blue?style=flat-square&logo=instagram">
     </a>
     <a href="mailto:van.guido@hotmail.com">
