@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🔭 &nbsp; 5 Years work experience as a front-end developer and UI/UX designer
-- 🎓 &nbsp; Studying Information Technology at Inholland.
+- 🎓 &nbsp; Graduated in Information Technology at Inholland.
 - 🌱 &nbsp; Learning more about Mobile Development, Backend development, and Artificial Intelligence.
 - ✍️ &nbsp; Creative and problem solving focussed with UX/UI Design.
 
